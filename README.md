@@ -1,7 +1,7 @@
 # TSC_E-BookReader
 
 ## Diagrama bloc:
-![diagram](./BlockDiagram.png)
+![diagram](./Images/BlockDiagram.png)
 
 ## Pasi de implementare:
 
@@ -117,6 +117,10 @@
 
 [Bill Of Materials](https://docs.google.com/spreadsheets/d/1Q_EdtGEQtIujOwCTEiCneIGeXAIIT7IC10t8W7WPvTo/edit?gid=126355067#gid=126355067)
 
+| Component | Link | Datasheet |
+|-----------|-------|----------|
+
 ## Probleme:
 
 - Am aprobat 2 erori tip *SMD-Hole* la rutarea *PCB-ului*
+- Am aprobat erorile de tip *part X has no value* sau *pin X connected to Y* ce apareau dupa rularea *ERC-ului* in schematic
