@@ -19,7 +19,7 @@
 - Am desenat modelele **3D** pentru *baterie*, *ecran* si *test-pad-uri* tinand cont de dimensiuni
 - Am adaugat toate piesele (*placuta*, *ecranul*, *bateria* si *carcasa*) obtinand produsul final
 
-
+ 
 
 ## Descriere functionalitate hardware:
 
@@ -115,10 +115,36 @@
 
 ## Bill of Materials (BOM):
 
-[Bill Of Materials](https://docs.google.com/spreadsheets/d/1Q_EdtGEQtIujOwCTEiCneIGeXAIIT7IC10t8W7WPvTo/edit?gid=126355067#gid=126355067)
-
-| Component | Link | Datasheet |
-|-----------|-------|----------|
+| Componenta |        Link      |               Datasheet                |
+|------------|------------------|----------------------------------------|
+| ESP32-C6-WROOM-1-N8 | [Link](https://ro.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8?qs=8Wlm6%252BaMh8ST02Gmwp74cw%3D%3D) | [Link](https://ro.mouser.com/datasheet/2/891/Espressif_ESP32_C6_WROOM_1__Datasheet_V0_1_PRELIMI-3239987.pdf) |
+| 112A-TAAR-R03_ATTEND | [Link](https://www.digikey.ro/ro/products/detail/attend-technology/112A-TAAR-R03/17633923) | [Datasheet](https://www.attend.com.tw/data/download/file/112A-TAAR-R03_Spec.pdf) |
+| ADAFRUIT_LEDCHIP-LED0603 | [Link](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) | [Datasheet](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/datasheet/) |
+| ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [Link](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/view-part/) | [Datasheet](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/datasheet/) |
+| ESP32_WROVER_EAGLE-LTSPICE_CC0402 | [Link](https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO) | [Datasheet](https://componentsearchengine.com/Datasheets/2/CC0402MRX5R5BB106.pdf) |
+| RCL_CPOL-EUCT3528 | [Link]() | [Datasheet]() |
+| ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH-DMG2305UX-7 | [Link]() | [Datasheet]() |
+| 744043680IND_4828-WE-TPC_WRE | [Link]() | [Datasheet]() |
+| BD5229G-TR | [Link](https://ro.mouser.com/ProductDetail/ROHM-Semiconductor/BD5229G-TR?qs=4kLU8WoGk0vvnhrrYwdszw%3D%3D) | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd52xxg-e.pdf) |
+| ESP32_WROVER_BME680_BME680 | [Link]() | [Datasheet]() |
+| BUTTON_CUSYOMV1 | [Link]() | [Datasheet]() |
+| CPH3225A | [Link]() | [Datasheet]() |
+| DS3231SN# | [Link]() | [Datasheet]() |
+| ESP32C6_VARISTORCN1812 | [Link]() | [Datasheet]() |
+| ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0 | [Link]() | [Datasheet]() |
+| FH34SRJ-24S-0.5SH_99_ | [Link]() | [Datasheet]() |
+| MAX17048G+T10 | [Link]() | [Datasheet]() |
+| MBR0530 | [Link]() | [Datasheet]() |
+| ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831 | [Link]() | [Datasheet]() |
+| PGB1010603MR | [Link]() | [Datasheet]() |
+| QWIIC_CONNECTORJS-1MM | [Link]() | [Datasheet]() |
+| SAMACSYS_PARTS_USB4110-GF-A | [Link]() | [Datasheet]() |
+| SI1308EDL-T1-GE3 | [Link]() | [Datasheet]() |
+| TPTP20R | [Link]() | [Datasheet]() |
+| USBLC6-2SC6Y | [Link]() | [Datasheet]() |
+| SJ | [Link](https://grabcad.com/library/solder-jumpers-1) | [Datasheet]() |
+| W25Q512JVEIQ | [Link]() | [Datasheet]() |
+| XC6220A331MR-G | [Link]() | [Datasheet]() |
 
 ## Probleme:
 
