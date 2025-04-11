@@ -19,7 +19,7 @@
 - Am desenat modelele **3D** pentru *baterie*, *ecran* si *test-pad-uri* tinand cont de dimensiuni
 - Am adaugat toate piesele (*placuta*, *ecranul*, *bateria* si *carcasa*) obtinand produsul final
 
- 
+
 
 ## Descriere functionalitate hardware:
 
@@ -122,31 +122,32 @@
 | ADAFRUIT_LEDCHIP-LED0603 | [Link](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) | [Datasheet](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/datasheet/) |
 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [Link](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/view-part/) | [Datasheet](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/datasheet/) |
 | ESP32_WROVER_EAGLE-LTSPICE_CC0402 | [Link](https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO) | [Datasheet](https://componentsearchengine.com/Datasheets/2/CC0402MRX5R5BB106.pdf) |
-| RCL_CPOL-EUCT3528 | [Link]() | [Datasheet]() |
-| ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH-DMG2305UX-7 | [Link]() | [Datasheet]() |
-| 744043680IND_4828-WE-TPC_WRE | [Link]() | [Datasheet]() |
+| RCL_CPOL-EUCT3528 | [Link](https://ro.mouser.com/ProductDetail/Vishay-Sprague/TR3B106K025C1300?qs=jCGqFXxTmLdffnuDkXzk1g%3D%3D) | [Datasheet](https://www.vishay.com/docs/40080/tr3.pdf) |
+| ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH-DMG2305UX-7 | [Link](https://ro.mouser.com/ProductDetail/Diodes-Incorporated/DMG2305UX-7?qs=L1DZKBg7t5F%2FNBHrjfxC%252Bg%3D%3D) | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) |
+| 744043680IND_4828-WE-TPC_WRE | [Link](https://www.digikey.sg/en/products/detail/w%C3%BCrth-elektronik/744043680/1638515) | [Datasheet](https://www.we-online.com/components/products/datasheet/744043680.pdf) |
 | BD5229G-TR | [Link](https://ro.mouser.com/ProductDetail/ROHM-Semiconductor/BD5229G-TR?qs=4kLU8WoGk0vvnhrrYwdszw%3D%3D) | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd52xxg-e.pdf) |
-| ESP32_WROVER_BME680_BME680 | [Link]() | [Datasheet]() |
-| BUTTON_CUSYOMV1 | [Link]() | [Datasheet]() |
-| CPH3225A | [Link]() | [Datasheet]() |
-| DS3231SN# | [Link]() | [Datasheet]() |
-| ESP32C6_VARISTORCN1812 | [Link]() | [Datasheet]() |
-| ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0 | [Link]() | [Datasheet]() |
-| FH34SRJ-24S-0.5SH_99_ | [Link]() | [Datasheet]() |
-| MAX17048G+T10 | [Link]() | [Datasheet]() |
-| MBR0530 | [Link]() | [Datasheet]() |
-| ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831 | [Link]() | [Datasheet]() |
-| PGB1010603MR | [Link]() | [Datasheet]() |
-| QWIIC_CONNECTORJS-1MM | [Link]() | [Datasheet]() |
-| SAMACSYS_PARTS_USB4110-GF-A | [Link]() | [Datasheet]() |
-| SI1308EDL-T1-GE3 | [Link]() | [Datasheet]() |
-| TPTP20R | [Link]() | [Datasheet]() |
-| USBLC6-2SC6Y | [Link]() | [Datasheet]() |
+| ESP32_WROVER_BME680_BME680 | [Link](https://ro.mouser.com/ProductDetail/Bosch-Sensortec/BME680?qs=v271MhAjFHjo0yA%2FC4OnDQ%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/783/BST_BME680_DS001-1509608.pdf) |
+| BUTTON_CUSYOMV1 | [Link](https://ro.mouser.com/ProductDetail/Panasonic/EVQ-P7M01P?qs=rJ%252BziJWpysz0sJAzuCybtw%3D%3D) | [Datasheet](https://industry.panasonic.com/global/en/downloads/?file_cd=402906&tab=catalog&series_cd=3457) |
+| CPH3225A | [Link](https://ro.mouser.com/ProductDetail/Seiko-Semiconductors/CPH3225A?qs=3etwrb1wR%252BhUOph6lAO7eg%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/360/Seiko_Instruments_MicroBattery_E_20230330_2024Jan_-3561061.pdf) |
+| DS3231SN# | [Link](https://ro.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/DS3231SN?qs=1eQvB6Dk1vhUlr8%2FOrV0Fw%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/609/DS3231-3421123.pdf) |
+| ESP32C6_VARISTORCN1812 | [Link](https://eu.mouser.com/ProductDetail/KEMET/VC1812L501R008?qs=jj7GbYRQuOa1j1%2F3gPpdvQ%3D%3D) | [Datasheet](https://eu.mouser.com/datasheet/2/447/KEM_V0002_VC-3316862.pdf) |
+| ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0 | [Link](https://eu.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D&utm_id=6470900573&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf2CZaBvMXoqDoLB8a6wI1EC_&gclid=CjwKCAjw--K_BhB5EiwAuwYoyhyp4YPMQJxEs9O7Um1pbb_qrwD9UbwWFHYqYH_KvU5-nXs4CTfFVRoCY7kQAvD_BwE) | [Datasheet](https://eu.mouser.com/datasheet/2/40/schottky-3165252.pdf) |
+| FH34SRJ-24S-0.5SH_99_ | [Link](https://eu.mouser.com/ProductDetail/Hirose-Connector/FH34SRJ-24S-05SH99?qs=vcbW%252B4%252BSTIpKBl5ap9J8Fw%3D%3D&utm_id=6470900573&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf2CZaBvMXoqDoLB8a6wI1EC_&gclid=CjwKCAjw--K_BhB5EiwAuwYoykKExbMK_Nf7-m2eYAFcWwWt_BaAKmDd5HmJ3DzOwus-MUIZVeL9ExoCTtAQAvD_BwE) | [Datasheet](https://eu.mouser.com/datasheet/2/185/FH34SRJ_24S_0_5SH_99__CL0580_1255_6_99_2DDrawing_0-1615044.pdf) |
+| MAX17048G+T10 | [Link](https://eu.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17048G+T10?qs=D7PJwyCwLAoGnnn8jEPRBQ%3D%3D&utm_id=20109199409&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf23I7VSL8Khkvz-kjEhjYqPz&gclid=CjwKCAjw--K_BhB5EiwAuwYoytVFz576awyE1ug3GUFRWVeGavv1g_gzDMEDxxjVwp1JIOS60JmKnhoC-zIQAvD_BwE) | [Datasheet](https://eu.mouser.com/datasheet/2/609/MAX17048_MAX17049-3469099.pdf) |
+| MBR0530 | [Link](https://eu.mouser.com/ProductDetail/Micro-Commercial-Components-MCC/MBR0530-TP?qs=KFo7JewZbUECRHkxGanrdg%3D%3D&utm_id=6470900573&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf2CZaBvMXoqDoLB8a6wI1EC_&gclid=CjwKCAjw--K_BhB5EiwAuwYoysNC_AmHFOx6dFFFiTr86y8jRKC674aUhl0na6xIgHM9UWT_XyhG0RoCYwIQAvD_BwE) | [Datasheet](https://eu.mouser.com/datasheet/2/258/MBR0520_MBR0580_SOD123_-2492194.pdf) |
+| ESP32_WROVER_SPARKFUN-IC-POWER_MCP73831 | [Link](https://ro.mouser.com/ProductDetail/Microchip-Technology/MCP73831-2DCI-MC?qs=hH%252BOa0VZEiBQ%2FrptDRXKdg%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/268/MCP73831_Family_Data_Sheet_DS20001984H-3441711.pdf) |
+| PGB1010603MR | [Link](https://ro.mouser.com/ProductDetail/Littelfuse/PGB1010603MR?qs=gu7KAQ731URLg4GSnNNN7Q%3D%3D) | [Datasheet](https://www.littelfuse.com/assetdocs/pulseguard-esd-suppressors-pgb1-datasheet?assetguid=8a337998-d54d-466b-be4e-dc5bcd1f9321) |
+| QWIIC_CONNECTORJS-1MM | [Link](https://www.sparkfun.com/qwiic-jst-connector-smd-4-pin-vertical.html) | [Datasheet](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf?5ec58813d214e) |
+| SAMACSYS_PARTS_USB4110-GF-A | [Link](https://eu.mouser.com/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D&utm_id=6470900573&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf2CZaBvMXoqDoLB8a6wI1EC_&gclid=CjwKCAjw--K_BhB5EiwAuwYoyqoFYku-1KEnaVMBZNhraqam0ThMUfxlrF7A4GQ8Pqj9d6zLqr7juBoCrOEQAvD_BwE) | [Datasheet](https://eu.mouser.com/datasheet/2/837/GCT_USB4110_Product_Drawing___20k_cycles-3455479.pdf) |
+| SI1308EDL-T1-GE3 | [Link](https://eu.mouser.com/ProductDetail/Vishay-Semiconductors/SI1308EDL-T1-GE3?qs=bX1%252BNvsK%2FBramh9tgpOaEw%3D%3D&utm_id=20109199409&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gbraid=0AAAAADn_wf23I7VSL8Khkvz-kjEhjYqPz&gclid=CjwKCAjw--K_BhB5EiwAuwYoyllRgbebqlW1QDUb9SQpEls061aMn76tZxer07jsniKXNOsDESHnSBoCkL8QAvD_BwE) | [Datasheet](https://www.vishay.com/docs/63399/si1308edl.pdf) |
+| USBLC6-2SC6Y | [Link](https://eu.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D&srsltid=AfmBOoqlX0fgvKlHMd5oyRC9Sr6hBsf51Zi0RKmaIGejNRz6zsEP_LgY) | [Datasheet](https://eu.mouser.com/datasheet/2/389/usblc6_2sc6y-1852505.pdf) |
 | SJ | [Link](https://grabcad.com/library/solder-jumpers-1) | [Datasheet]() |
-| W25Q512JVEIQ | [Link]() | [Datasheet]() |
-| XC6220A331MR-G | [Link]() | [Datasheet]() |
+| W25Q512JVEIQ | [Link](https://eu.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ?qs=l7cgNqFNU1jw6svr3at6tA%3D%3D&srsltid=AfmBOopwp-NQhQ6JM3w-WMYdzldr5QNIm_7CdLwVaaaS66y9swf4PMgu) | [Datasheet](https://eu.mouser.com/datasheet/2/949/Winbond_W25Q512JV_Datasheet-3240039.pdf) |
+| XC6220A331MR-G | [Link](https://eu.mouser.com/ProductDetail/Torex-Semiconductor/XC6220A331MR-G?qs=AsjdqWjXhJ8ZSWznL1J0gg%3D%3D&srsltid=AfmBOopNlEzK7MdHRFabPSVSf32rb8GhsgKYTsuSlo8EjEXWvzOc5IIo) | [Datasheet](https://eu.mouser.com/datasheet/2/760/xc6220-3371556.pdf) |
 
 ## Probleme:
 
 - Am aprobat 2 erori tip *SMD-Hole* la rutarea *PCB-ului*
 - Am aprobat erorile de tip *part X has no value* sau *pin X connected to Y* ce apareau dupa rularea *ERC-ului* in schematic
+- Pentru *Test-pad-uri* am creat eu un model 3D cilindric, deoarece nu am gasit model pe internet
+
