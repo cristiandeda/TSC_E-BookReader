@@ -117,7 +117,7 @@
 
 | Componenta |        Link      |               Datasheet                |
 |------------|------------------|----------------------------------------|
-| ESP32-C6-WROOM-1-N8 | [Link](https://ro.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8?qs=8Wlm6%252BaMh8ST02Gmwp74cw%3D%3D) | [Link](https://ro.mouser.com/datasheet/2/891/Espressif_ESP32_C6_WROOM_1__Datasheet_V0_1_PRELIMI-3239987.pdf) |
+| ESP32-C6-WROOM-1-N8 | [Link](https://ro.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8?qs=8Wlm6%252BaMh8ST02Gmwp74cw%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/891/Espressif_ESP32_C6_WROOM_1__Datasheet_V0_1_PRELIMI-3239987.pdf) |
 | 112A-TAAR-R03_ATTEND | [Link](https://www.digikey.ro/ro/products/detail/attend-technology/112A-TAAR-R03/17633923) | [Datasheet](https://www.attend.com.tw/data/download/file/112A-TAAR-R03_Spec.pdf) |
 | ADAFRUIT_LEDCHIP-LED0603 | [Link](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) | [Datasheet](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/datasheet/) |
 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [Link](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/view-part/) | [Datasheet](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/datasheet/) |
